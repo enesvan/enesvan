@@ -1,6 +1,11 @@
-## Hello there. I'm Enes Van 👋
-- 🔭 I’m currently working on Unity Game Development
-- 📫 How to reach me: aenesvan@gmail.com
+<h1 align="center">Hello there 👋 I'm Enes Van</h1>
+<h3 align="center">Game Developer</h3>
+
+- 🔭 I’m currently working on <b>Unity</b>
+
+- 💬 Ask me about anything in <b>Game Industry</b>
+
+- ⚡ How to reach me: <a href="https://enesvan.com">enesvan.com</a>
 <!--
 **enesvan/enesvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
