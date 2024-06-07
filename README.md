@@ -5,7 +5,7 @@
 
 - 💬 Ask me about anything in <b>Game Industry</b>
 
-- ⚡ How to reach me: <a href="https://enesvan.com">enesvan.com</a>
+- ⚡ How to contact me: <a href="https://enesvan.com">enesvan.com</a>
 <!--
 **enesvan/enesvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
